@@ -1,6 +1,3 @@
-# Earthquake-Magnitude-Prediction
-ML project using USGS earthquake data to predict seismic magnitudes and identify hotspots.
-
 # Earthquake Magnitude Prediction Using Machine Learning
 
 This project uses historical seismic data from the USGS Earthquake Hazards Program to build a machine learning model that predicts earthquake magnitudes based on geographic and seismic parameters. The goal is to enhance early warning systems and disaster preparedness by identifying high-risk zones with predictive modeling.
